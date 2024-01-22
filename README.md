@@ -1,2 +1,2 @@
 # recepie-app-api
-Recipie API Project.
+Recepie API Project.
